@@ -3,12 +3,12 @@ This project is an interactive application for graph generation and visualizatio
 
   Technologies used:
   
-    • Python – main programming language
+    •Python – main programming language
     
-    •	Tkinter – for building the graphical user interface (GUI)
+    •Tkinter – for building the graphical user interface (GUI)
     
-    •	NetworkX – for graph generation and analysis
+    •NetworkX – for graph generation and analysis
     
-    •	Matplotlib – for interactive graph visualization
+    •Matplotlib – for interactive graph visualization
     
-    •	Random – for probabilistic edge generation in graphs
+    •Random – for probabilistic edge generation in graphs
