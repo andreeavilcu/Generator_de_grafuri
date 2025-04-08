@@ -1,7 +1,8 @@
-Acest proiect este o aplicație interactivă de generare și vizualizare a grafurilor, care permite utilizatorilor să creeze grafuri orientate folosind modelul Erdős-Rényi și să determine arborele minim de acoperire (MST) utilizând algoritmii Kruskal, Prim și Borůvka. Aplicația include o interfață grafică intuitivă și oferă funcționalități precum schimbarea layout-ului, evidențierea muchiilor MST, zoom și afișarea atributelor grafurilor.
-Tehnologii utilizate:
-•	Python – limbajul principal de programare
-•	Tkinter – pentru crearea interfeței grafice (GUI)
-•	NetworkX – pentru generarea și analiza grafurilor
-•	Matplotlib – pentru vizualizarea interactivă a grafurilor
-•	Random – pentru generarea probabilistică a muchiilor grafurilor
+  # Graph Generator and MST Visualizer
+This project is an interactive application for graph generation and visualization. It allows users to create directed graphs using the Erdős-Rényi model and compute the Minimum Spanning Tree (MST) using Kruskal's, Prim's, and Borůvka's algorithms. The application features an intuitive graphical user interface and offers functionalities such as layout switching, MST edge highlighting, zooming, and displaying graph attributes.
+  Technologies used:
+    • Python – main programming language
+    •	Tkinter – for building the graphical user interface (GUI)
+    •	NetworkX – for graph generation and analysis
+    •	Matplotlib – for interactive graph visualization
+    •	Random – for probabilistic edge generation in graphs
